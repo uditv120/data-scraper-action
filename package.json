@@ -1,0 +1,8 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "scrape.js",
+  "dependencies": {
+    "playwright": "^1.42.1"
+  }
+}
